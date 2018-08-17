@@ -1,7 +1,7 @@
-package ch1._9;
+package ch1._09;
 
 public abstract class Operation {
-  protected static double a = 1;
+  protected double a;
   protected double b;
 
   public double getA() {

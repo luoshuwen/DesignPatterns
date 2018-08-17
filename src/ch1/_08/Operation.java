@@ -1,4 +1,4 @@
-package ch1._8;
+package ch1._08;
 
 public class Operation {
 	public static double getResult(double a,double b,String operand) {

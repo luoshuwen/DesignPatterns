@@ -1,4 +1,4 @@
-package ch1._8;
+package ch1._08;
 
 import java.util.Scanner;
 
